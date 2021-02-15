@@ -1,2 +1,3 @@
 # Weight
-Part of Project 2 from my Programming Concepts class during the Spring 2016 semester.
+
+This program computes the ideal weight for both males and females who are over 5 feet tall.
